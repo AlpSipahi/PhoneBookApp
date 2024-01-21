@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Phonebook</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no_item_description">Oops!\nYou have no saved contacts.\nTap + to add.</string>
+    <string name="edit_item_title">Edit Contact</string>
+    <string name="name">Name</string>
+    <string name="item_detail_title">Contact Details</string>
+    <string name="item_entry_title">Add Contact</string>
+    <string name="item_name_req">Contact Name*</string>
+    <string name="item_price_req">Contact Surname*</string>
+    <string name="no">No</string>
+    <string name="surname">Surname</string>
+    <string name="quantity_in_stock">Number</string>
+    <string name="number">%d</string>
+    <string name="quantity_req">Contact Number*</string>
+    <string name="save_action">Save</string>
+    <string name="yes">Yes</string>
+    <string name="required_fields">*required fields</string>
+</resources>
